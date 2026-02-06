@@ -2,6 +2,9 @@
 
 <!--
 **Amr1001Hamada/Amr1001Hamada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Field](https://img.shields.io/badge/Field-Space%20Weather-orange)
+![Focus](https://img.shields.io/badge/Focus-Heliophysics-blue)
+![Language](https://img.shields.io/badge/Language-Arabic-success)
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Space Weather](https://img.shields.io/badge/Field-Space%20Weather-orange)
+![Language](https://img.shields.io/badge/Language-Arabic-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Amr1001Hamada-black)
+![Research](https://img.shields.io/badge/Research-Solar%20Physics-yellow)
+![Open Science](https://img.shields.io/badge/Open-Science-success)
